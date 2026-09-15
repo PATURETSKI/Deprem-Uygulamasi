@@ -280,18 +280,6 @@ Bu proje sayesinde aşağıdaki konularda pratik yapılmıştır:
 
 ---
 
-## 🔮 Gelecekte Eklenebilecek Özellikler
-
-* [ ] Belirli bir büyüklüğün üzerindeki depremler için bildirim sistemi
-* [ ] Harita üzerinde deprem konumlarını gösterme
-* [ ] Deprem büyüklüğüne göre filtreleme
-* [ ] Tarih aralığına göre filtreleme
-* [ ] Daha gelişmiş grafikler
-* [ ] Kullanıcı tarafından belirlenen şehirleri takip etme
-* [ ] Deprem verilerini CSV/Excel olarak dışa aktarma
-* [ ] Daha modern bir kullanıcı arayüzü
-* [ ] İnternet bağlantısı olmadığında mevcut verileri görüntüleme
-
 ---
 
 ## 👨‍💻 Geliştirici
@@ -302,7 +290,5 @@ Computer Engineering Student
 Trakya University
 
 ---
-
-## 📄 Lisans
 
 Bu proje eğitim ve kişisel gelişim amacıyla geliştirilmiştir.
